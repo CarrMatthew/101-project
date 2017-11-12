@@ -1,0 +1,51 @@
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  height: 100%;
+  font-family: helvetica;
+}
+
+a {
+  color: white ;
+}
+
+header {
+  padding: 5px;
+  background: #000080 ;
+  color: white ;
+  text-align: center;
+  font-family: papyrus;
+  font-size: 25px
+}
+
+nav {
+  width: 200px;
+  height: 100%;
+  float: left; /* don't modify */
+  background-color: #444 ;
+  margin-right: 20px;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  margin-bottom: 10px;
+}
+
+section {
+  width: 500px;
+  float: left; /* don't modify */
+  padding: 5px;
+}
+
+footer {
+  clear: left; /* don't modify */
+  padding: 10px;
+  background: ;
+  text-align: ;
+}
